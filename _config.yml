@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "mirlanium"
-description              : &description "hey there, i am mirlan. i am phd candidate in computer science at ETH Zurich and working as a doctoral researcher at Mercedes-Benz. my work spans world models & video generation models for autonomous driving. being an overcurious person led me to explore fields of computational mechanics/fluid dynamics, dynamical systems theory and nonlinear control, nanomechanics of advanced materials, 3D Vision and VLMs before"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "hey there, i am mirlan. i am a phd candidate in computer science at ETH Zurich and working as a doctoral researcher at Mercedes-Benz. my work spans world models & video generation models for autonomous driving. being an overcurious person led me to explore fields of computational mechanics/fluid dynamics, dynamical systems theory and nonlinear control, nanomechanics of advanced materials, 3D Vision and VLMs before"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
